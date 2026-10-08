@@ -1,0 +1,17 @@
+body {
+    background-color: #b7b3a8!important;
+}
+table {
+    margin-left:auto;
+    margin-right:auto;
+
+    margin: 0px auto;
+
+    margin: 0px auto 0px auto;
+
+    width: 1500px;
+}
+/* kimelt osztály*/
+.kiemelt {
+    background-color: #6c655d;
+}
